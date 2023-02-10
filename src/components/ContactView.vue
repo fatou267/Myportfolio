@@ -26,7 +26,7 @@
                 <textarea name="message" v-model="message" class="form-control" id="message" rows="3"></textarea>
               </div>
               <div class="col-12 my-2">
-                <button type="submit" class="btn btn-primary w-100">Envoyer</button>
+                <button type="submit" class="btn  btn-outline-success w-100">Envoyer</button>
               </div>
             </form>
             
