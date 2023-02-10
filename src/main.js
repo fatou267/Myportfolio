@@ -9,7 +9,10 @@ import './assets/css/style.css'
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core'
 
-/* import font awesome icon component */
+/* import font awesome icon component 
+git add .
+git commit -m ""
+ git push -u origin main */
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 /* import specific icons */

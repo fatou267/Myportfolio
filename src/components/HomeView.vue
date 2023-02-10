@@ -3,11 +3,11 @@
       <div class="container">
         <div class="row gy-4 align-items-center">
           <div class="col-12 col-md-6">
-            <h1 class="fw-bold">Je suis <b class="fw-bold">Fatou NIANG</b> Élève ingénieure en informatique</h1>
-            <h2 class="fw-light">Bienvenue dans mon univers créatif</h2>
+            <h1 class="fw-bold">Salut, je suis <b class="fw-bold">Fatou NIANG</b> Élève ingénieure en informatique.</h1>
             <p class="text">
-                Autonome, organisée et toujours dans la quête de nouvelles opportunités, 
-                je suis passionnée du développement et je mets mes compétences au service afin d'assurer mon évolution professionnelle.
+              Je suis passionnée de développement web et mobile et tous ce qui est touche la création
+              de logiciels et l'analyse de données.
+              De nature autonome et organisée, ma curiosité me pousse à vouloir enrichir davantage mes compétences.
             </p>
           </div>
           <div class="col-12 col-md-6">
