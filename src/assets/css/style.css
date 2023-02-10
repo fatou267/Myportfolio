@@ -1,0 +1,17 @@
+body, html{
+    background-color: #f6f3ee;
+    color: black;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    overflow-x: hidden;
+}
+.card{
+    background-color: #f5e5b7; 
+    border: none;
+}
+.list-group-item
+{
+    border: none;
+    background-color:  #f5e5bb;
+}
