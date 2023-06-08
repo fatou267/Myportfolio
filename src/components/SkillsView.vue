@@ -152,20 +152,20 @@
                       <a href="#" class="list-group-item list-group-item-action">
                         <div class="d-flex w-100 justify-content-between">
                         <span class="mb-1 card-title">Développeuse web fullstack Chez Ayokai</span>
-                        <small >Depuis Avril</small>
+                        <small class="text-end">Depuis Avril</small>
                         </div>
                     </a>
                     <a href="#" class="list-group-item list-group-item-action" aria-current="true">
                         <div class="d-flex w-100 justify-content-between">
                         <span class="mb-1 card-title">Agent d'entretien </span>
-                        <small>3 mois </small>
+                        <small class="text-end">3 mois </small>
                         </div>
         
                     </a>
                     <a href="#" class="list-group-item list-group-item-action">
                         <div class="d-flex w-100 justify-content-between">
                         <span class="mb-1 card-title">Développeuse web Python Django et Javascript</span>
-                        <small >3 mois</small>
+                        <small class="text-end">3 mois</small>
                         </div>
                     </a>
                     </div>
