@@ -148,7 +148,13 @@
             <div class="card">
                 <div class="card-body">
                     <h5 class="">Expériences professionnelles</h5>
-                    <div class="list-group">
+                    <div class="list-group text-start">
+                      <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                        <span class="mb-1 card-title">Développeuse web fullstack Chez Ayokai</span>
+                        <small >Depuis Avril</small>
+                        </div>
+                    </a>
                     <a href="#" class="list-group-item list-group-item-action" aria-current="true">
                         <div class="d-flex w-100 justify-content-between">
                         <span class="mb-1 card-title">Agent d'entretien </span>
@@ -238,7 +244,7 @@
                 </div>
                 <div class="col">
                   <div class="progress" data-bs-toggle="tooltip" title="75%">
-                    <div class="progress-bar w-50" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                    <div class="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0"
                          aria-valuemax="100">
                     </div>
                   </div>
@@ -256,7 +262,7 @@
                 </div>
                 <div class="col">
                   <div class="progress" data-bs-toggle="tooltip" title="75%">
-                    <div class="progress-bar w-25" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                    <div class="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0"
                          aria-valuemax="100">
                     </div>
                   </div>
@@ -274,7 +280,7 @@
                 </div>
                 <div class="col">
                   <div class="progress" data-bs-toggle="tooltip" title="75%">
-                    <div class="progress-bar w-25" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                    <div class="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0"
                          aria-valuemax="100">
                     </div>
                   </div>

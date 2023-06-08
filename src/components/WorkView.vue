@@ -19,7 +19,7 @@
   <div class="card p-2 h-100">
     <img src="../assets/blog.png" class="card-img-top rounded float-start" alt="Blog en django" width="474" height="237">
     <div class="card-body">
-      <h5 class="card-title">Crétaion d'un blog avec Django</h5>
+      <h5 class="card-title">Création d'un blog avec Django</h5>
     </div>
     <div class="card-footer">
       <small class="text-muted"></small>
@@ -114,7 +114,7 @@
   <div class="card p-2 h-100">
     <img src="../assets/smesp.png" class="card-img-top rounded float-start" alt="maquette html" width="474" height="237">
     <div class="card-body">
-      <h5 class="card-title">Site de maintenance pour ESP avec Javascript</h5>
+      <h5 class="card-title">Site de maintenance pour ESP avec PHP </h5>
     </div>
     <div class="card-footer">
       <small class="text-muted"></small>
@@ -180,7 +180,7 @@
   <div class="card p-2 h-100">
     <img src="../assets/king.png" class="card-img-top rounded float-start" alt="jeu pendu" width="474" height="237">
     <div class="card-body">
-      <h5 class="card-title">Jeu kingdomino en graphique avec IA et python (en cours)</h5>
+      <h5 class="card-title">Jeu kingdomino en graphique avec IA et python </h5>
     </div>
     <div class="card-footer">
       <small class="text-muted"></small>
